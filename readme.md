@@ -13,7 +13,7 @@ This rep is an accompaniment to the [Getting Started with CSS on Frontend Master
 
 ## Overview
 
-Overall goal was to refresh myself on semantic HTML and responsive CSS styling.
+Overall goal was to refresh myself on basic CSS by recreating a two-page website from scratch using semantic HTML and CSS.
 
 ### Links
 
@@ -27,6 +27,8 @@ Overall goal was to refresh myself on semantic HTML and responsive CSS styling.
 
 - Semantic HTML5 markup
 - CSS custom properties
+- CSS Flexbox
+- CSS Grid
 
 ### What I learned
 
@@ -36,6 +38,8 @@ nav [class*='fa-'] {
   color: var(--aqua);
 }
 ```
+
+I did not realize I could select font awesome icons using `class *= 'fa-'`! Super cool and will be helpful when prototyping projects.
 
 ## Author
 
