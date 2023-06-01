@@ -17,7 +17,7 @@ Overall goal was to refresh myself on basic CSS by recreating a two-page website
 
 ### Links
 
-<!-- - Live Site URL: [Add live site URL here](https://your-live-site-url.com) -->
+- Live Site URL: [Live Site](https://magnificent-kashata-083e75.netlify.app/)
 
 - Solution URL: [Github Repo](https://github.com/xcChinaxc/fem-getting-started-with-css-portfolio)
 
@@ -27,7 +27,7 @@ Overall goal was to refresh myself on basic CSS by recreating a two-page website
 
 - Semantic HTML5 markup
 - CSS custom properties
-- CSS Flexbox
+- Flexbox
 - CSS Grid
 
 ### What I learned
